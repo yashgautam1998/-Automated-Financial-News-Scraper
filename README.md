@@ -1,5 +1,4 @@
-# -Automated-Financial-News-Scraper
-# 📈 Yahoo Finance News Scraper
+# 📈 Finance News Scraper
 
 A Python script that scrapes the latest news headlines from **Yahoo Finance** and stores them in a **PostgreSQL** database.
 
